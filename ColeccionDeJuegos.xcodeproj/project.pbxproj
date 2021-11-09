@@ -14,6 +14,7 @@
 		F4A46770273A1EE4001AB481 /* ColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F4A4676E273A1EE4001AB481 /* ColeccionDeJuegos.xcdatamodeld */; };
 		F4A46772273A1EE8001AB481 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4A46771273A1EE8001AB481 /* Assets.xcassets */; };
 		F4A46775273A1EE8001AB481 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4A46773273A1EE8001AB481 /* LaunchScreen.storyboard */; };
+		F4A4677D273A24AD001AB481 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A4677C273A24AD001AB481 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F4A46771273A1EE8001AB481 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F4A46774273A1EE8001AB481 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F4A46776273A1EE8001AB481 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F4A4677C273A24AD001AB481 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				F4A46773273A1EE8001AB481 /* LaunchScreen.storyboard */,
 				F4A46776273A1EE8001AB481 /* Info.plist */,
 				F4A4676E273A1EE4001AB481 /* ColeccionDeJuegos.xcdatamodeld */,
+				F4A4677C273A24AD001AB481 /* JuegosViewController.swift */,
 			);
 			path = ColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4A4677D273A24AD001AB481 /* JuegosViewController.swift in Sources */,
 				F4A4676A273A1EE4001AB481 /* ViewController.swift in Sources */,
 				F4A46766273A1EE4001AB481 /* AppDelegate.swift in Sources */,
 				F4A46768273A1EE4001AB481 /* SceneDelegate.swift in Sources */,
